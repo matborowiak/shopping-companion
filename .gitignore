@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.cache/
+runs/
+.venv/
+.claude/settings.local.json
+.claude/agent-memory-local/

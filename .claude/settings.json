@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -m shop *)",
+      "Bash(python3 -m unittest *)",
+      "WebFetch(domain:www.amazon.de)",
+      "WebFetch(domain:amazon.de)",
+      "WebFetch(domain:geizhals.de)",
+      "WebFetch(domain:www.geizhals.de)",
+      "WebFetch(domain:www.idealo.de)",
+      "WebFetch(domain:idealo.de)",
+      "WebFetch(domain:www.mydealz.de)",
+      "WebFetch(domain:mydealz.de)"
+    ]
+  }
+}
